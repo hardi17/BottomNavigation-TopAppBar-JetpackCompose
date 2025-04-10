@@ -6,10 +6,6 @@ Using,
   - Bottom navigation library in Jetpack compose
 
 
-## Contributing to create bottom navigation bar using JetPack compose in kotlin
-
-Just make pull request. You are in!
-
 Thanks
 
 Hardi Rachh
